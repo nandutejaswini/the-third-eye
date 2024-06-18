@@ -46,7 +46,9 @@ Connect all hardware components as per the circuit diagram provided in the repos
 
 ### Contributors
 Nandu Tejaswini
+
 Vaishnavi Rudraraju
+
 P. Meghana Reddy
 ### Acknowledgments
 Special thanks to Dr. Renuka Methre, our project guide, and the ECE Department at GNITS for their support and guidance.
