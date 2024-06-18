@@ -33,3 +33,22 @@ THE THIRD EYE is an innovative assistive device designed to aid visually impaire
 1. Clone the repository:
    ```bash
    git clone https://github.com/nandutejaswini/the-third-eye.git
+
+### Install the required Python libraries:
+
+pip install tensorflow numpy opencv-python
+### Usage
+Connect all hardware components as per the circuit diagram provided in the repository.
+1. Run the main script to start the system:
+      python main.py
+2. Follow voice instructions for navigation.
+3. Circuit Diagram: Please refer to the CircuitDiagram.jpg in the repository for detailed wiring and setup instructions.
+
+### Contributors
+Nandu Tejaswini
+Vaishnavi Rudraraju
+P. Meghana Reddy
+### Acknowledgments
+Special thanks to Dr. Renuka Methre, our project guide, and the ECE Department at GNITS for their support and guidance.
+
+
