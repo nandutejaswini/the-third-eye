@@ -42,7 +42,7 @@ Connect all hardware components as per the circuit diagram provided in the repos
 1. Run the main script to start the system:
       python main.py
 2. Follow voice instructions for navigation.
-3. Flow Chart: Please refer to the Flowchart.jpg in the repository for detailed wiring and setup instructions.
+3. Flow Chart: Please refer to the flowchart_thethirdeye.jpg in the repository for detailed wiring and setup instructions.
 
 ### Contributors
 Nandu Tejaswini
