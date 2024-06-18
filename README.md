@@ -3,6 +3,9 @@
 ## Overview
 THE THIRD EYE is an innovative assistive device designed to aid visually impaired individuals with independent navigation. Using a Raspberry Pi at its core, this project integrates advanced technologies like object detection through ResNet, GPS for navigation, and voice feedback to enhance mobility and safety for blind users.
 
+![The Third Eye Smart Cane Setup](the_third_eye_stick.png)
+
+
 ## Features
 - **Object Detection:** Utilizes a Raspberry Pi integrated with a Logitech C270 camera to detect obstacles.
 - **Voice-Based Assistance:** Provides audio feedback through earphones connected to the Raspberry Pi, offering real-time navigation and obstacle information.
